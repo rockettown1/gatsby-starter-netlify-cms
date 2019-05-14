@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Something new I learned today
 image: /img/home-jumbotron.jpg
 heading: Some new I learned today.
 subheading: Quick fire web dev stuff
@@ -65,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
